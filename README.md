@@ -9,4 +9,8 @@ Jangan Lupa Follow Github Gw Ya Slurr, Bagi Yang Sudah Follow Makasih Ya :)
 * [<img alt="Black-ID's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Rahmat_devs</b>](https://www.instagram.com/rahmat_devs/)<br />
 * [<img alt="Black-ID's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>BlackCode-ID</b>](https://github.com/BlackCode-ID)<br />
 
-> Keep Connected And Keep Exploit with me. Copyright©2K21 Rahmat_Dev
+> Keep Connected And Keep Exploit with me.
+
+<h3 align="center">
+    Copyright©2K21 Rahmat_Dev
+</h3>
